@@ -1,1 +1,0 @@
-this is the project of shell permission
